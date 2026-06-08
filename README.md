@@ -20,6 +20,7 @@ InnovationOS is an AI-powered platform that helps developers, students, and star
 
 - HTML, CSS
 - Tailwind
+- bootstrap
 - React (future scope)
 - Node.js (planned)
 - AI APIs (planned)
